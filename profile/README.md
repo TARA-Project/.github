@@ -1,4 +1,4 @@
-![TARA logo](https://raw.githubusercontent.com/talentease/.github/main/profile/talentease.png)
+![TARA logo](https://github.com/TARA-Project/.github/blob/main/profile/tara-logo.png)
 
 # TARA - CH2-PS559 - Bangkit 2023 Batch 2
 
