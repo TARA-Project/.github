@@ -23,6 +23,10 @@ With TARA, users can find tourist attractions that suit their interests, get inf
 
 Tourism, Cultural, and Hospitality
 
+## Info
+
+Currently, TARA can only run in the "Daerah Istimewa Yogyakarta" area due to limited time and resources.
+
 ## Link
 
 - [Mobile Apps Source Code](https://github.com/TARA-Project/tara-mobile)
