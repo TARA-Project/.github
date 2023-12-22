@@ -31,7 +31,7 @@ Currently, TARA can only run in the "Daerah Istimewa Yogyakarta" area due to lim
 
 - [Mobile Apps Source Code](https://github.com/TARA-Project/tara-mobile)
 - [Machine Learning Source Code](https://github.com/TARA-Project/tara-ML)
-- [Cloud Computing Source Code]()
+- [Cloud Computing Source Code](https://github.com/TARA-Project/tara-cc-backend-ml)
 
 - [TARA APK](https://drive.google.com/file/d/1Y3RN8yWtI4PF9s_8DyMaFO3jxl4barpl/view?usp=sharing)
 - [Backend API](https://tara-api2-72oh4bxmxq-as.a.run.app/)
