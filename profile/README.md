@@ -1,4 +1,4 @@
-![TARA logo](https://github.com/TARA-Project/.github/blob/main/profile/tara-logo.png)
+<img src="https://github.com/TARA-Project/.github/blob/main/profile/tara-logo.png" width="200">
 
 # TARA - CH2-PS559 - Bangkit 2023 Batch 2
 
@@ -30,7 +30,7 @@ Currently, TARA can only run in the "Daerah Istimewa Yogyakarta" area due to lim
 ## Link
 
 - [Mobile Apps Source Code](https://github.com/TARA-Project/tara-mobile)
-- [Machine Learning Source Code]()
+- [Machine Learning Source Code](https://github.com/TARA-Project/tara-ML)
 - [Cloud Computing Source Code]()
 
 - [TARA APK](https://drive.google.com/file/d/1Y3RN8yWtI4PF9s_8DyMaFO3jxl4barpl/view?usp=sharing)
